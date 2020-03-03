@@ -1,0 +1,30 @@
+{
+  "name": "burgers-the-sequel",
+  "version": "1.0.0",
+  "description": "* Folder: `07-ORM-To-Sequelize/Unsolved`",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraazyCraaz/burgers-the-sequel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraazyCraaz/burgers-the-sequel/issues"
+  },
+  "homepage": "https://github.com/CraazyCraaz/burgers-the-sequel#readme",
+  "dependencies": {
+    "body-parse": "^0.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mysql": "^2.18.0",
+    "mysql2": "^2.1.0",
+    "sequelize": "^5.21.3"
+  }
+}
